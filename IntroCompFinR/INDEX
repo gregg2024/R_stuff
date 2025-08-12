@@ -1,0 +1,25 @@
+VanguardPrices          Monthly adjusted closing price for Vanguard
+                        Mutual Fund
+amznDailyPrices         Daily adjusted closing price for Amazon stock
+baDailyPrices           Daily adjusted closing price for Boeing stock
+costDailyPrices         Daily adjusted closing price for Costco stock
+efficient.frontier      Compute efficient frontier of risky assets
+efficient.portfolio     Compute minimum variance portfolio subject to
+                        target return
+fourPanelPlot           Create four-panel plot of returns
+getPortfolio            Create portfolio object
+globalMin.portfolio     Compute global minimum variance portfolio
+jwnDailyPrices          Daily adjusted closing price for Nordstrom
+                        stock
+msftDailyPrices         Daily adjusted closing price for Microsoft
+                        stock
+plot.Markowitz          Plot method of class Markowitz
+plot.portfolio          Plot method of class portfolio
+print.Markowitz         Print efficient frontier
+print.portfolio         Print method of class portfolio
+sbuxDailyPrices         Daily adjusted closing price for Starbucks
+                        stock
+sp500DailyPrices        Daily adjusted closing price for S&P 500 index
+summary.Markowitz       Summary method of class Markowitz
+summary.portfolio       Summary method of class portfolio
+tangency.portfolio      Compute tangency portfolio

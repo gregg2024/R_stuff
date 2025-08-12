@@ -1,0 +1,19 @@
+countries               Country Codes
+country2                Country Codes
+country3                Country Codes
+fred                    Fetch Data Series from FRED
+fred_category           Fetch Information on a Category in FRED
+fred_group              Fetch and Create a Panel of Data
+fred_releases           Fetch Information on a Release in FRED
+fred_search             Search for Series on FRED
+fred_series             Fetch Data or Information on a SERIES in FRED
+fred_sources            Fetch Information on a Data Source in FRED
+fred_tags               Fetch Information on a Tag in FRED
+fred_updates            Fetch Series with Recent Updates
+parse_search            Convert Search Terms to a API Friendly Format
+releases                Economic Releases
+set_fred_key            Set a FRED API Key
+sources                 Sources of Economic Data
+states                  U.S. State Abbreviations
+states_extended         Extended State Abbreviations
+tags                    Popular Tags
